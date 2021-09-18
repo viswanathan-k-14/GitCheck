@@ -1,4 +1,9 @@
 # Live site of this project
+
+✔️Search any github users instantly using this github api project 
+
+✔️Build with React hooks and Context Api
+
 (https://gitcheck.netlify.app/)
 
 # Getting Started with Create React App
