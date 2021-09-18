@@ -2,7 +2,7 @@
 
 ✔️Search any github users instantly using this github api project 
 
-✔️Build with React hooks and Context Api
+✔️Built using modern React hooks and Context Api
 
 (https://gitcheck.netlify.app/)
 
