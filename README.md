@@ -1,4 +1,4 @@
-#Live site of this project
+# Live site of this project
 (https://gitcheck.netlify.app/)
 
 # Getting Started with Create React App
